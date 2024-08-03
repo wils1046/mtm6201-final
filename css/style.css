@@ -15,7 +15,7 @@
 }
 
 .burger {
-    margin-left: 34%;
+    margin-left: 32%;
 }
 
 .slogan {
@@ -39,15 +39,21 @@
 }
 
 .card-w {
-    width: 105%;
+    width: 106%;
 }
 
 .card-p {
-    margin-left: 6%;
+    margin-left: 7%;
 }
 
 .card-icon {
     height: 30%;
+    width: 30%;
+}
+
+.icon-pm {
+    padding-top: 3px;
+    height: 20%;
     width: 30%;
 }
 
