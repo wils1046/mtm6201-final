@@ -1,0 +1,47 @@
+:root {
+    --bs-primary-rgb: 26,26,48;
+    --bs-dark-bg-subtle: #ECB539;
+    --bs-warning-rgb: 251,239,213;
+}
+
+.logo {
+    width: 50%;
+    height: 50%;
+}
+
+@media screen and (min-width: 992px) {
+
+}
+
+@media screen and (min-width: 1200px) {
+    .logo {
+        height: 15vh;
+    }
+    
+    .nav-link {
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .slogan {
+        width: 35vw;
+    }
+    
+    #header {
+        background-image: url(../images/Header.png);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .d-flex {
+        height: 60vh;
+    }
+    
+    #process-image {
+        background-image: url(../images/The\ Process.png);
+        background-position: center;
+        background-size: cover;
+    }
+}
+
