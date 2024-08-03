@@ -4,9 +4,34 @@
     --bs-warning-rgb: 251,239,213;
 }
 
+.nav-link {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .logo {
     width: 50%;
     height: 50%;
+}
+
+.burger {
+    margin-left: 34%;
+}
+
+.slogan {
+    width: 58vw;
+    margin-top: 20%;
+}
+
+.meet {
+    margin-left: 35%;
+}
+
+#header {
+    background-image: url(../images/Header.png);
+    background-position: center;
+    background-size: cover;
+    height: 40vh;
 }
 
 @media screen and (min-width: 992px) {
@@ -16,11 +41,6 @@
 @media screen and (min-width: 1200px) {
     .logo {
         height: 15vh;
-    }
-    
-    .nav-link {
-        font-weight: bold;
-        font-family: Arial, Helvetica, sans-serif;
     }
     
     .slogan {
