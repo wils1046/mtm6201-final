@@ -34,6 +34,27 @@
     height: 40vh;
 }
 
+.card {
+    height: 100%;
+}
+
+.card-w {
+    width: 105%;
+}
+
+.card-p {
+    margin-left: 6%;
+}
+
+.card-icon {
+    height: 30%;
+    width: 30%;
+}
+
+.socmed {
+    height: 45%;
+}
+
 @media screen and (min-width: 992px) {
 
 }
