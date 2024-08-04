@@ -61,6 +61,26 @@
     height: 45%;
 }
 
+/* about */
+
+#header-a {
+    background-image: url(../images/About\ -\ Header.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+.team {
+    height: 30vh;
+}
+
+.p3 {
+    height: 17vh;
+}
+
 @media screen and (min-width: 992px) {
 
 }
