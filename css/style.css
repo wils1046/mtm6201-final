@@ -40,14 +40,6 @@
     height: 100%;
 }
 
-/* .card-w {
-    width: 106%;
-} */
-
-/* .card-p {
-    margin-left: 7%;
-} */
-
 .card-icon {
     height: 30%;
     width: 30%;
@@ -87,6 +79,11 @@
 
 .info {
     height: 40vh;
+}
+
+.g-map {
+    height: 400px;
+    width: 100%;
 }
 
 @media screen and (min-width: 992px) {
