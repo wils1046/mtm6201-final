@@ -9,6 +9,8 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* home */
+
 .logo {
     width: 50%;
     height: 50%;
@@ -88,6 +90,7 @@
 }
 
 @media screen and (min-width: 992px) {
+    /* home */
     .slogan {
         width: 48vw;
         margin-top: 10%;
@@ -109,5 +112,33 @@
 
 @media screen and (min-width: 1200px) {
 
+    /* home */
+
+    #header {
+        background-image: url(../images/Header.png);
+        background-position: center;
+        background-size: cover;
+        height: 90vh;
+    }
+
+    .slogan {
+        width: 38vw;
+        margin-top: 22%;
+    }
+
+    /* about */
+
+    .au {
+        width: 50%;
+    }
+
+    #header-a {
+        height: 50vh;
+    }
+
+    .contact-content {
+        width: 90%;
+        height: 98%;
+    }
 }
 
