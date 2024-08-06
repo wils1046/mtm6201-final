@@ -8,8 +8,16 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="bg-primary">
+
+    <ul class="skip-links">
+        <li><a href="#nav">Skip to navigation</a></li>
+        <li><a href="#main">Skip to main content</a></li>
+        <li><a href="#cards">Skip to team</a></li>
+        <li><a href="#portfolio">Skip to portfolio</a></li>
+      </ul>
+
     <header>
-        <nav class="navbar navbar-expand-md bg-dark-subtle">
+        <nav id="nav" class="navbar navbar-expand-md bg-dark-subtle">
             <div class="p-2">
                 <a class="navbar-brand" href="index.html"><img src="images/Logo.png" alt="jodex logo" class="logo img-fluid"></a>
                     <button class="burger navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,7 +42,7 @@
           </nav>
     </header>
 
-    <main>
+    <main id="main">
         <section id="header-a">
             <div class="container"> 
                 <div class="au bg-primary py-4 m-4 m-xl-5 rounded text-white text-center">
@@ -94,7 +102,7 @@
                 </div>
         </section>
 
-        <section class="py-5">
+        <section id="portfolio" class="py-5">
                     <div class="bg-dark-subtle rounded">
                         <h2 class="text-black text-center">Our Portfolio</h2>
                         <div class="row row-cols-sm-3 row-cols-md-3 justify-content-center justify-content-xl-around">
