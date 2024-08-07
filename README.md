@@ -32,3 +32,7 @@ There are so many ways to create your own website, you just have to play with yo
 - (https://www.oneplus.com/ca_en)
 4. Location from Google Maps (https://www.google.com/maps/place/331+MacLaren+St,+Ottawa,+ON+K2P+0M4/@45.4155574,-75.6968953,17z/data=!3m1!4b1!4m6!3m5!1s0x4cce05ac39dff1ef:0x87fe6a97742f7f49!8m2!3d45.4155537!4d-75.6943204!16s%2Fg%2F11c2f037tz?entry=ttu)
 5. CSS library for my buttons and links are from (https://ianlunn.github.io/Hover/)
+
+
+==NOTE==
+The live view from my Visual Studio code displays different from the link from my github.
